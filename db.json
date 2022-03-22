@@ -1,28 +1,14 @@
-[
 {
-"nom":"vénus",
-"distance":58,
-"logo":"https://assets.stickpng.com/images/580b585b2edbce24c47b2712.png"
-},
-{
-"nom":"mercure",
-"distance":108,
-"logo":"https://assets.stickpng.com/images/580b585b2edbce24c47b2709.png"
-},
-{
-"nom":"Mars",
-"distance":78,
-"logo":"https://pngimg.com/uploads/mars_planet/mars_planet_PNG38.png"
-},
-{
-"nom":"Jupiter",
-"distance":58,
-"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Jupiter.png/1200px-Jupiter.png"
-},
-{
-"nom":"Saturne",
-"distance":89,
-"logo":"https://assets.stickpng.com/images/580b585b2edbce24c47b2712.png"
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-
-]
