@@ -7,32 +7,35 @@
 "logo": "https://assets.stickpng.com/images/580b585b2edbce24c47b2712.png"
 },
 {
-    "id":1,
+    "id":2,
 "nom": "mercure",
 "distance": 108,
 "logo": "https://assets.stickpng.com/images/580b585b2edbce24c47b2709.png"
 },
 {
-    "id":2,
+    "id":3,
 "nom": "Mars",
 "distance": 78,
 "logo": "https://pngimg.com/uploads/mars_planet/mars_planet_PNG38.png"
 },
 {
-    "id":3,
+    "id":4,
 "nom": "Jupiter",
 "distance": 58,
 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Jupiter.png/1200px-Jupiter.png"
 },
 {
-    "id":4,
+    "id":5,
 "nom": "Saturne",
 "distance": 89,
 "logo": "https://assets.stickpng.com/images/580b585b2edbce24c47b2712.png"
 }
 ],
   "info": [
-    { "id": 1, "body": "some comment", "planetId": 1 },
-    { "id": 2, "body": "some comment", "planetId": 1 }
+    { "id": 1,"planetId": 1,name:"vénus", "description": "Vénus est la deuxième planète du Système solaire par ordre d'éloignement au Soleil, et la sixième plus grosse aussi bien par la masse que le diamètre. Elle doit son nom à la déesse romaine de l'amour.", "logo": "https://assets.stickpng.com/images/580b585b2edbce24c47b2712.png", "seemore":"https://fr.wikipedia.org/wiki/V%C3%A9nus_(plan%C3%A8te)" },
+    { "id": 2,"planetId": 2,name:"mercure", "description": "Mercure est la planète la plus proche du Soleil et la moins massive du Système solaireN 1. Son éloignement au Soleil est compris entre 0,31 et 0,47 unité astronomique (soit 46 et 70 millions de kilomètres)","logo": "https://assets.stickpng.com/images/580b585b2edbce24c47b2709.png", "seemore":"https://fr.wikipedia.org/wiki/Mercure_(plan%C3%A8te)" },
+    { "id": 3,"planetId": 4,name:"Jupiter", "description": "Jupiter est la cinquième planète du Système solaire par ordre d'éloignement au Soleil, et la plus grande par la taille et la masse devant Saturne, qui est comme elle une planète géante gazeuse. Elle est même plus volumineuse que toutes les autres planètes réunies avec son rayon moyen de 69 911 km, qui vaut environ onze fois celui de la Terre","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Jupiter.png/1200px-Jupiter.png", "seemore":"https://fr.wikipedia.org/wiki/Jupiter_(plan%C3%A8te)" },
+    { "id": 4,"planetId": 5,name:"Saturne", "description": "Saturne est la sixième planète du Système solaire par ordre d'éloignement au Soleil, et la deuxième plus grande par la taille et la masse après Jupiter, qui est comme elle une planète géante gazeuse. Son rayon moyen de 58 232 km est environ neuf fois et demi celui de la Terre et sa masse de 568,46 × 1024 kg est 95 fois plus grande. Orbitant en moyenne à environ 1,4 milliard de kilomètres du Soleil (9,5 unités astronomiques), sa période de révolution vaut un peu moins de 30 années tandis que sa période de rotation est estimée à 10 h 33 min.","logo": "https://assets.stickpng.com/images/580b585b2edbce24c47b2712.png", "seemore":"https://fr.wikipedia.org/wiki/Saturne_(plan%C3%A8te)" },
+    { "id": 5,"planetId": 3,name:"Mars", "description": "Saturne est la sixième planète du Système solaire par ordre d'éloignement au Soleil, et la deuxième plus grande par la taille et la masse après Jupiter, qui est comme elle une planète géante gazeuse. Son rayon moyen de 58 232 km est environ neuf fois et demi celui de la Terre et sa masse de 568,46 × 1024 kg est 95 fois plus grande. Orbitant en moyenne à environ 1,4 milliard de kilomètres du Soleil (9,5 unités astronomiques), sa période de révolution vaut un peu moins de 30 années tandis que sa période de rotation est estimée à 10 h 33 min.","logo": "https://assets.stickpng.com/images/580b585b2edbce24c47b2712.png", "seemore":"https://fr.wikipedia.org/wiki/Mars_(plan%C3%A8te)" },  
   ]
 }
