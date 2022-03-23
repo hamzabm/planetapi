@@ -31,7 +31,7 @@
 "logo": "https://assets.stickpng.com/images/580b585b2edbce24c47b2712.png"
 }
 ],
-  "info": [
+  "infos": [
     { "id": 1,
      "planetId": 1,
      "name":"vénus",
@@ -51,9 +51,18 @@
      "description": "Jupiter est la cinquième planète du Système solaire par ordre d'éloignement au Soleil.",
      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Jupiter.png/1200px-Jupiter.png", "seemore":"https://fr.wikipedia.org/wiki/Jupiter_(plan%C3%A8te)"
     },
-    { "id": 4,"planetId": 5,
+    { "id": 4,
+        "planetId": 5,
         "name":"Saturne",
-         "description": "Saturne est la sixième planète du Système solaire par ordre d'éloignement au Soleil.","logo": "https://assets.stickpng.com/images/580b585b2edbce24c47b2712.png", "seemore":"https://fr.wikipedia.org/wiki/Saturne_(plan%C3%A8te)" },
-    { "id": 5,"planetId": 3,"name":"Mars", "description": "Mars est la quatrième planète du Système solaire par ordre croissant de la distance au Soleil","logo": "https://assets.stickpng.com/images/580b585b2edbce24c47b2712.png", "seemore":"https://fr.wikipedia.org/wiki/Mars_(plan%C3%A8te)" },
-  ]
+         "description": "Saturne est la sixième planète du Système solaire par ordre d'éloignement au Soleil.",
+         "logo": "https://assets.stickpng.com/images/580b585b2edbce24c47b2712.png",
+          "seemore":"https://fr.wikipedia.org/wiki/Saturne_(plan%C3%A8te)" },
+    { "id": 5,
+        "planetId": 3,
+        "name":"Mars", 
+        "description": "Mars est la quatrième planète du Système solaire par ordre croissant de la distance au Soleil",
+        "logo": "https://assets.stickpng.com/images/580b585b2edbce24c47b2712.png",
+         "seemore":"https://fr.wikipedia.org/wiki/Mars_(plan%C3%A8te)" 
+        }
+    ]
 }
